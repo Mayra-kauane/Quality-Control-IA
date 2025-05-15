@@ -1,16 +1,16 @@
-# 📊 Qualite Control IA – Classificação de Defeitos em Chapas de Aço
+#  Qualite Control IA – Classificação de Defeitos em Chapas de Aço
 
 Este projeto resolve um desafio de classificação multirrótulo para prever tipos de falhas em chapas de aço com base em variáveis de processo industriais.
 
 ---
 
-## 🚀 Objetivo
+##  Objetivo
 
 Construir um modelo de Machine Learning capaz de prever múltiplos defeitos simultaneamente em uma mesma chapa.
 
 ---
 
-## 🧠 Modelagem
+##  Modelagem
 
 - Tipo de problema: **Classificação Multirrótulo**
 - Modelos testados:
@@ -21,23 +21,7 @@ Construir um modelo de Machine Learning capaz de prever múltiplos defeitos simu
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-├── data/                 # Dados de treino e teste
-├── scripts/              # Módulos Python organizados
-│   ├── preprocessing.py
-│   ├── model.py
-│   ├── evaluation.py
-│   ├── submission.py
-├── main.py               # Script principal
-├── requirements.txt
-├── README.md
-```
-
----
-
-## ⚙️ Como executar
+##  Como executar
 
 1. Clone este repositório:
 ```bash
@@ -70,7 +54,7 @@ data/final_submission.xlsx
 
 ---
 
-## ✅ Conclusão
+##  Conclusão
 
 O modelo XGBoost mostrou desempenho superior em classes desbalanceadas. A estrutura modular do projeto facilita reuso, testes futuros e integração com APIs.
 
