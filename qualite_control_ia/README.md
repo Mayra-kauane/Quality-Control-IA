@@ -21,22 +21,6 @@ Construir um modelo de Machine Learning capaz de prever múltiplos defeitos simu
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-├── data/                 # Dados de treino e teste
-├── scripts/              # Módulos Python organizados
-│   ├── preprocessing.py
-│   ├── model.py
-│   ├── evaluation.py
-│   ├── submission.py
-├── main.py               # Script principal
-├── requirements.txt
-├── README.md
-```
-
----
-
 ## ⚙️ Como executar
 
 1. Clone este repositório:
